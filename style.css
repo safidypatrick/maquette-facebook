@@ -1,0 +1,91 @@
+
+#titre1{
+	font-weight: bold;
+	font-size: 28px;
+	color: black;
+
+}
+img{
+	width: 100%;
+}
+.az{
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	margin-left: 45%;
+
+
+}
+.c{
+	margin-top: 30px;
+}
+.c input{
+	background-color: #007acc;
+	color: white;
+	border-style: none;
+	
+
+}
+.Adress{
+	margin-left: 5%;
+	color: white;
+	font-size: 12px;
+}
+.mot{
+	margin-left: 5%;
+
+}
+.detail{
+	padding-left: 35%;
+}
+.connexion{
+	margin-top: -5px;
+	text-align: center;
+}
+.nav{
+	background-color: #4267b2;
+	display:flex;
+	flex-flow: row wrap;
+	
+}
+.description{
+	text-align: center;
+	font-size: 25px;
+	color: #2e2e1f#4267b2;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.color{
+	color: white;
+	font-size: 12px;
+}
+.date{
+	font-weight:bold;
+	font-family: sans-serif;
+}
+body{
+	background-color: rgb(242, 242, 242);
+}
+.input{
+display: flex;
+}
+#input{
+	width: 57.5%;
+}
+.btn1{
+	font-family: 'freight sans bold',Helvetica,sans-serif ;
+	font-size: 20px;
+	background-color: #5cd65c;
+	color: white;
+}
+.image{
+	justify-content: center;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+.input1 input{
+
+	border-radius: -1px;
+	width: 200px;
+	height: 40px;
+}
